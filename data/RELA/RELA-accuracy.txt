@@ -1,0 +1,3 @@
+Motif: RELA_GM12878_1
+Training performance = 0.661652
+Testing performance = 0.612639

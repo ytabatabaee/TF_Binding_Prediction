@@ -1,0 +1,3 @@
+Motif: USF1_FB_1
+Training performance = 0.414196
+Testing performance = 0.214367

@@ -1,0 +1,7 @@
+Each folder represents a TF. Within each folder, you will find:
+<TFname>-train-sequence.fa : sequences of ChIP peaks and non-peaks of the TF, to be used for training your model.
+<TFname>-train.bed: ChIP scores of the peaks and non-peaks in the above file; represent binding strength of the TF to that segment. Also to be used for training.
+<TFname>-test-sequence.fa : sequences of ChIP peaks and non-peaks of the TF, to be used for testing your model.
+<TFname>-test.bed: ChIP scores of the peaks and non-peaks in the above file; represent binding strength of the TF to that segment. Also to be used for testing.
+<TFname>_*.wtmx: one or more PWMs known in the literature or databases for this TF. You may use any or all of these in your models.
+<TFname>-accuracy.txt: accuracy achieved by an in-house model, on this data set (test data). You may, if you want, use this as a ballpark estimate of how amenable each data set is to computational prediction, but please do not take these accuracies literally, they may differ from model to model.

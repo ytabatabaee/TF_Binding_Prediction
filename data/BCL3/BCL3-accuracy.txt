@@ -1,0 +1,3 @@
+Motif: BCL3_GM12878_3
+Training performance = 0.587292
+Testing performance = 0.524874

@@ -1,0 +1,3 @@
+Motif: TCF12_GM12878_1
+Training performance = 0.405076
+Testing performance = 0.716740

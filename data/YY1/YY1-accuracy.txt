@@ -1,0 +1,3 @@
+Motif: YY1_GM12878_2
+Training performance = 0.646638
+Testing performance = 0.593084

@@ -1,0 +1,3 @@
+Motif: SIN3A_GM12878_1
+Training performance = 0.346796
+Testing performance = 0.416850

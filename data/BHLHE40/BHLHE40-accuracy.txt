@@ -1,0 +1,3 @@
+Motif: BHLHE40_GM12878_1
+Training performance = 0.491428
+Testing performance = 0.432761

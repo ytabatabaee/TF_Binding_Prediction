@@ -1,0 +1,3 @@
+Motif: MAX_GM12878_1
+Training performance = 0.421039
+Testing performance = 0.383219

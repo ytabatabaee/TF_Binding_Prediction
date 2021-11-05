@@ -1,0 +1,3 @@
+Motif: EBF1_GM12878_1
+Training performance = 0.552935
+Testing performance = 0.412613

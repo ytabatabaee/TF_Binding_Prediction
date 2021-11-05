@@ -1,0 +1,3 @@
+Motif: ELF1_GM12878_1
+Training performance = 0.629919
+Testing performance = 0.578686

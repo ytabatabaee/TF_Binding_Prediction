@@ -1,0 +1,3 @@
+Motif: BATF_GM12878_1
+Training performance = 0.479671
+Testing performance = 0.372648

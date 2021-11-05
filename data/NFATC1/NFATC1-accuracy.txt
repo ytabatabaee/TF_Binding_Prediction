@@ -1,0 +1,3 @@
+Motif: NFATC1_GM12878_4
+Training performance = 0.296285
+Testing performance = 0.255520

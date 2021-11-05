@@ -1,0 +1,3 @@
+Motif: SPI1_HOCO_A
+Training performance = 0.537095
+Testing performance = 0.606047
